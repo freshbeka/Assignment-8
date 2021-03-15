@@ -1,7 +1,7 @@
 ---
 title: "Some things I learned this quarter"
 subtitle: FISH 497
-author: "Beka Stiling \\ stilir@uw.edu"
+author: "Beka Stiling<br>stilir@uw.edu"
 date: "3/15/2021"
 output: ioslides_presentation
 ---
@@ -10,27 +10,39 @@ output: ioslides_presentation
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## R Markdown
+# Introduction
 
-This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+## About me | Personal
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
+- Born: Dallas, TX (moved at 3mo to Manila, Philippines)
+- Home: Madison, Wisconsin (move from Manila to Madison at age 3)
+- Favorite Foods: totchos, avocados, cheese 
+- Favorite Animals: beavers
 
-## Slide with Bullets
+## About me | Academic
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
+- Wheaton College (2002) | B.A. Theology
+- University of Washington (2014) | B.S. Aquatic and Fishery Sciences
 
-## Slide with R Output
+## About me | Things I've missed during the pandemic
 
-```{r cars, echo = TRUE}
-summary(cars)
-```
+- Simple gatherings with family and friends 
+- Blocks of uninterrupted time
+- Travel 
 
-## Slide with Plot
+# Data science
 
-```{r pressure}
-plot(pressure)
-```
+## Course topics | 3 things I enjoyed learning about
 
+- R Markdown 
+- GitHub
+- Shiny
+
+## Course topics | 3 things I'd like to learn more about
+
+- Shiny
+- SQL databases
+- Packages 
+
+
+## {data-background=IMG_7442.jpeg data-background-size=cover}
